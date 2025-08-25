@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" alt="" height="400px" src="./src/imagem github2.png">
+<img align="right" alt="" height="400px" src="./src/Gemini_Generated_Image_13mqi513mqi513mq.png">
 
 ### Conecte-se comigo!
 
