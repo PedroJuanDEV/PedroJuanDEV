@@ -42,7 +42,7 @@
   </div>
 
   <div>
-    <h4>Linguagens de Marcação e Estilo</h4>
+    <h4>Linguagens de Marcação e Estilo.</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" />
