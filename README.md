@@ -49,7 +49,7 @@
   </div>
 
   <div>
-    <h4>Banco de Dados</h4>
+    <h4>Banco de Dados.</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL" />
   </div>
 
