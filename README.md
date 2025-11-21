@@ -54,7 +54,7 @@
   </div>
 
   <div>
-    <h4>Frameworks & Bibliotecas</h4>
+    <h4>Frameworks & Bibliotecas.</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" />
   </div>
 
