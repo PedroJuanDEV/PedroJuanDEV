@@ -11,25 +11,24 @@
 <div style="display: flex; gap: 40px; align-items: flex-start; justify-content: space-between;">
   
   <div style="flex-grow: 1;">
-    Estudante deAnálise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET e a linguagem C#.
+    Estudante de **Análise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET e a linguagem C#.
     
-    <br><br>
+   <br>
+   <br>
 
-    Busco minha primeira oportunidade profissional na área de desenvolvimento, com um forte interesse em **Cibersegurança** e **Gerenciamento de Banco de Dados**.
+  Busco minha primeira oportunidade profissional na área de desenvolvimento, com um forte interesse em **Cibersegurança** e **Gerenciamento de Banco de Dados**.
+   <br><br>
+  Transformando ideias em código funcional, um passo de cada vez.
 
-    <br><br>
-
-    Transformando ideias em código funcional, um passo de cada vez.
-
-    <br><br>
+  <br><br>
     
-    ### Conecte-se
+  Conecte-se
     
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrojuanafk/)
-    [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojuanaluno22@gmail.com)
-    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/SEU_USUARIO_DISCORD)
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrojuanafk/)
+   [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojuanaluno22@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/pedrojuandev)
     
-    > **Ajuste Necessário:** Lembre-se de substituir "SEU_USUARIO_DISCORD" acima pelo seu username do Discord.
+  
   </div>
 
   <img alt="Garoto usando o computador, representando programação" height="200px" src="./src/Gemini_Generated_Image_13mqi513mqi513mq.png" style="border-radius: 8px;">
