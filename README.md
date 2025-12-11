@@ -11,7 +11,7 @@
 <div style="display: flex; gap: 40px; align-items: flex-start; justify-content: space-between;">
   
   <div style="flex-grow: 1;">
-    Estudante de **Análise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET e a linguagem C#.
+    Estudante de Análise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET e a linguagem C#.
     
    <br>
    <br>
@@ -69,8 +69,8 @@ Tecnologias principais que utilizo e foco de estudo:
     <img src="https://img.shields.io/badge/Projeto%20Back--End%20(Banco%20de%20Dados)-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Projeto de Banco de Dados">
   </a>
   &nbsp;
-  <a href="https://github.com/PedroJuanAFK/Arteiros" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto%20Arteiros%20(Web)-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Projeto Arteiros">
+  <a href="https://github.com/PedroJuanDEV/SireneMobile_.git">
+    <img src="https://img.shields.io/badge/Projeto%20Arteiros%20(Web)-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Projeto Sirene">
   </a>
   
   <br><br>
