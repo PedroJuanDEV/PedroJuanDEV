@@ -66,11 +66,11 @@ Tecnologias principais que utilizo e foco de estudo:
   </p>
   
   <a href="https://github.com/PedroJuanAFK/BancoDeDados" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto%20Back--End%20(Banco%20de%20Dados)-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Projeto de Banco de Dados">
+    <img src="https://img.shields.io/badge/Projeto%20Back--End%20(Banco%20de%20Dados)-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="">
   </a>
   &nbsp;
   <a href="https://github.com/PedroJuanDEV/SireneMobile_.git">
-    <img src="https://img.shields.io/badge/Projeto%20Arteiros%20(Web)-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Projeto Sirene">
+    <img src="https://img.shields.io/badge/Projeto%20Sirene%20-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Projeto Sirene">
   </a>
   
   <br><br>
