@@ -1,95 +1,84 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=550&lines=Bem-vindo+ao+Perfil+de+Pedro+Juan" alt="Typing SVG - Bem-vindo ao Perfil de Pedro Juan">
 </div>
 
-<img align="center" alt="" src="./src/Banner linkedin.gif">
-
----
-<p align="center">Olá 👋, sou o Pedro Juan!
-  <br>
-  Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Senac, tendo ingressado através do programa Embarque Digital em parceria com o Banco Santander.
-  <br>
-  Atualmente, estou focado em desenvolver na plataforma .NET e na linguagem C#.
-  <br>
-  Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com desenvolvimento back-end com um forte foco em cibersegurança e gerenciamento de banco de dados.
-</p>
+<br>
 
 ---
 
-<img align="right" alt="" height="400px" src="./src/Gemini_Generated_Image_13mqi513mqi513mq.png">
+## 👤 Pedro Juan
 
-### Conecte-se comigo!
+<div style="display: flex; gap: 40px; align-items: flex-start; justify-content: space-between;">
+  
+  <div style="flex-grow: 1;">
+    Estudante deAnálise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET e a linguagem C#.
+    
+    <br><br>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF00&color:FFF)](mailto:pedrojuanaluno22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00&color:FFF)](https://www.linkedin.com/in/pedrojuanafk/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=00FF00&color:FFF)](https://github.com/PedroJuanAFK)
+    Busco minha primeira oportunidade profissional na área de desenvolvimento, com um forte interesse em **Cibersegurança** e **Gerenciamento de Banco de Dados**.
 
-### Minhas Habilidades ~
+    <br><br>
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
-  <div>
-    <h4>Linguagens de Programação</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="C#" />
+    Transformando ideias em código funcional, um passo de cada vez.
+
+    <br><br>
+    
+    ### Conecte-se
+    
+    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrojuanafk/)
+    [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojuanaluno22@gmail.com)
+    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/SEU_USUARIO_DISCORD)
+    
+    > **Ajuste Necessário:** Lembre-se de substituir "SEU_USUARIO_DISCORD" acima pelo seu username do Discord.
   </div>
 
-  <div>
-    <h4>Plataformas</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="25" alt=".NET" />
-  </div>
+  <img alt="Garoto usando o computador, representando programação" height="200px" src="./src/Gemini_Generated_Image_13mqi513mqi513mq.png" style="border-radius: 8px;">
 
-  <div>
-    <h4>Linguagens de Marcação e Estilo.</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" />
-  </div>
-
-  <div>
-    <h4>Banco de Dados.</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL" />
-  </div>
-
-  <div>
-    <h4>Frameworks & Bibliotecas</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" />
-  </div>
-
-  <div>
-    <h4>Ferramentas & Design</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="Figma" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25" alt="Photoshop" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="VS Code" />
-  </div>
 </div>
 
 ---
 
-### Meus Portfólios
+## 🛠️ Linguagens e Ferramentas
 
-<p align="center">
+Tecnologias principais que utilizo e foco de estudo:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET" title=".NET" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
+  
+</div>
+
+<br>
+
+---
+
+## 📊 Estatísticas e Projetos
+
+<div align="center">
+  <p>
+    Confira alguns dos meus projetos destacados:
+  </p>
+  
   <a href="https://github.com/PedroJuanAFK/BancoDeDados" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio%201-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Portfólio 1">
+    <img src="https://img.shields.io/badge/Projeto%20Back--End%20(Banco%20de%20Dados)-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Projeto de Banco de Dados">
   </a>
+  &nbsp;
   <a href="https://github.com/PedroJuanAFK/Arteiros" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio%202-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Portfólio 2">
+    <img src="https://img.shields.io/badge/Projeto%20Arteiros%20(Web)-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Projeto Arteiros">
   </a>
-  <a href="LINK_DO_SEU_PORTFOLIO_3" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio%203-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Portfólio 3">
-  </a>
-</p>
-
----
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="Animação da cobra do grid de contribuição do GitHub" src="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
-</picture>
+  
+  <br><br>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobra do grid de contribuição do GitHub" src="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
