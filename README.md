@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=00FF00;00BFFF;FF00FF;00FF00;00BFFF;FF00FF&center=true&vCenter=true&random=false&multiline=true&width=550&lines=Bem-vindo" alt="Typing SVG - Bem-vindo ao Perfil de Pedro Juan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=3000&color=00FF00&center=true&vCenter=true&random=false&width=550&lines=Bem-vindo+ao+Perfil" alt="Typing SVG - Bem-vindo ao Perfil>
 </div>
 
 <br>
