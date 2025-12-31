@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&section=header&text=&fontSize=60&animation=fadeIn&fontColor=00FF41" alt="Header Wave">
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=3000&color=00FF41&center=true&vCenter=true&random=false&width=550&lines=Bem-vindo(a)+ao+Perfil" alt="Typing SVG">
 </div>
 
@@ -80,4 +84,9 @@ Tecnologias principais que utilizo e foco de estudo:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
     <img alt="Animação da cobra do grid de contribuição do GitHub" src="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
   </picture>
+
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer">
+</div>
+
 </div>
