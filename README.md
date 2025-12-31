@@ -3,14 +3,16 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=3000&color=00FF41&center=true&vCenter=true&random=false&width=550&lines=Bem-vindo(a)+ao+Perfil" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Bem-vindo(a)%20ao%20Perfil&fontSize=32&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn" alt="Welcome Blur Gradient">
 </div>
+
+
 
 <br>
 
 ---
 
-## 👤 Pedro Juan
+##  Pedro Juan
 
 <div style="display: flex; gap: 40px; align-items: flex-start; justify-content: space-between;">
   
@@ -26,22 +28,21 @@
 
   <br><br>
     
-  Conecte-se
+  ## Conecte-se
     
-   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrojuanafk/)
-   [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojuanaluno22@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/pedrojuandev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrojuanafk/)
+  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojuanaluno22@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/pedrojuandev)
     
-  
   </div>
 
-  <img alt="Garoto usando o computador, representando programação" height="200px" src="./src/Gemini_Generated_Image_13mqi513mqi513mq.png" style="border-radius: 8px;">
+  <img alt="Garoto usando o computador" height="200px" src="./src/Gemini_Generated_Image_13mqi513mqi513mq.png" style="border-radius: 8px;">
 
 </div>
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
 Tecnologias principais que utilizo e foco de estudo:
 
@@ -55,14 +56,13 @@ Tecnologias principais que utilizo e foco de estudo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
-  
 </div>
 
 <br>
 
 ---
 
-## 📊 Estatísticas e Projetos
+## Estatísticas e Projetos
 
 <div align="center">
   <p>
@@ -82,11 +82,10 @@ Tecnologias principais que utilizo e foco de estudo:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
-    <img alt="Animação da cobra do grid de contribuição do GitHub" src="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobra" src="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
   </picture>
 
   <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer">
-</div>
-
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer">
+  </div>
 </div>
