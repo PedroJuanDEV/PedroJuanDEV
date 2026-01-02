@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&section=header&text=&fontSize=60&animation=fadeIn&fontColor=00FF41" alt="Header Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=054f77&section=header&text=&fontSize=60&animation=fadeIn&fontColor=00FF41" alt="Header Wave">
 </div>
 
 <div align="center">
@@ -89,6 +89,6 @@
   </picture>
 
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=054f77&section=footer">
   </div>
 </div>
