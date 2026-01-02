@@ -6,13 +6,11 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Bem-vindo(a)%20ao%20Perfil&fontSize=32&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn" alt="Welcome Blur Gradient">
 </div>
 
-
-
 <br>
 
 ---
 
-##  Pedro Juan
+## Pedro Juan
 
 <div style="display: flex; gap: 40px; align-items: flex-start; justify-content: space-between;">
   
@@ -44,18 +42,23 @@
 
 ## Linguagens e Ferramentas
 
-Tecnologias principais que utilizo e foco de estudo:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET" title=".NET" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroJuanAFK&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJuanAFK&theme=highcontrast&layout=compact&hide_border=true&title_color=00FF41&text_color=ffffff" />
 </div>
 
 <br>
@@ -70,11 +73,11 @@ Tecnologias principais que utilizo e foco de estudo:
   </p>
   
   <a href="https://github.com/PedroJuanAFK/BancoDeDados" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto%20Back--End%20(Banco%20de%20Dados)-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="">
+    <img src="https://img.shields.io/badge/Projeto%20Back--End-000?style=for-the-badge&logoColor=00FF00" alt="">
   </a>
   &nbsp;
   <a href="https://github.com/PedroJuanDEV/SireneMobile_.git">
-    <img src="https://img.shields.io/badge/Projeto%20Sirene%20-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Projeto Sirene">
+    <img src="https://img.shields.io/badge/Projeto%20Sirene-000?style=for-the-badge&logoColor=00FF00" alt="">
   </a>
   
   <br><br>
