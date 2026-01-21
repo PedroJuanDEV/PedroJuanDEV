@@ -56,10 +56,7 @@
 
 <br>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroJuanAFK&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJuanAFK&theme=highcontrast&layout=compact&hide_border=true&title_color=00FF41&text_color=ffffff" />
-</div>
+
 
 <br>
 
