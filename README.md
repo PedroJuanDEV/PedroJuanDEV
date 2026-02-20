@@ -15,7 +15,7 @@
 <div style="display: flex; gap: 40px; align-items: flex-start; justify-content: space-between;">
   
   <div style="flex-grow: 1;">
-    Estudante de Análise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET e a linguagem C#.
+    Estudante de Análise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET (C#), além de desenvolver projetos utilizando Python e SQL.
     
    <br>
    <br>
@@ -47,16 +47,14 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL/MySQL" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
 </div>
-
-<br>
-
-
 
 <br>
 
