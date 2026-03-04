@@ -15,12 +15,11 @@
 <div style="display: flex; gap: 40px; align-items: flex-start; justify-content: space-between;">
   
   <div style="flex-grow: 1;">
-    Estudante de Análise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET (C#), além de desenvolver projetos utilizando Python e SQL.
+    Estudante de Análise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET (C#), além de desenvolver projetos utilizando Typescript e SQL.
     
    <br>
    <br>
-
-  Busco minha primeira oportunidade profissional na área de desenvolvimento, com um forte interesse em **Cibersegurança** e **Gerenciamento de Banco de Dados**.
+Busco minha primeira oportunidade profissional na área de desenvolvimento, com um forte interesse em desenvolvimento web.
    <br><br>
   Transformando ideias em código funcional, um passo de cada vez.
 
