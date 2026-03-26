@@ -28,7 +28,7 @@ Busco minha primeira oportunidade profissional na área de desenvolvimento, com 
   ## Conecte-se
    
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrojuanafk/)
-  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojuanaluno22@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojuandb26@yahoo.com)
   [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/pedrojuandev)
    
   </div>
