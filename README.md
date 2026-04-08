@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=00000&section=header&text=&fontSize=60&animation=fadeIn&fontColor=00FF41" alt="Header Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=008000&section=header&text=&fontSize=60&animation=fadeIn&fontColor=00FF41" alt="Header Wave">
 </div>
 
 <div align="center">
@@ -79,6 +79,6 @@ Busco minha primeira oportunidade profissional na área de desenvolvimento, com 
   </picture>
 
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00000&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=008000&section=footer">
   </div>
 </div>
