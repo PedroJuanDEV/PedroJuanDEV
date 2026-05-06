@@ -1,82 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=00000&section=header&text=&fontSize=60&animation=fadeIn&fontColor=00FF41" alt="Header Wave">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Bem-vindo(a)%20ao%20Perfil&fontSize=32&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn" alt="Welcome Blur Gradient">
-</div>
-
-<br>
-
----
-
-## Pedro Juan
-
-<div style="display: flex; gap: 40px; align-items: flex-start; justify-content: space-between;">
-  
-  <div style="flex-grow: 1;">
-    Estudante de Análise e Desenvolvimento de Sistemas (ADS), cursando o 4º período e focado em tecnologias Back-End. Atualmente, aprimoro minhas habilidades com a plataforma .NET (C#), além de desenvolver projetos utilizando Typescript e SQL.
-    
-   <br>
-   <br>
-Busco minha primeira oportunidade profissional na área de desenvolvimento, com um forte interesse em desenvolvimento web.
-   <br><br>
-  Transformando ideias em código funcional, um passo de cada vez.
-
-  <br><br>
-   
-  ## Conecte-se
-   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrojuanafk/)
-  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojuandb26@yahoo.com)
-  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/pedrojuandev)
-   
-  </div>
-
-  <img alt="Garoto usando o computador" height="200px" src="./src/Gemini_Generated_Image_13mqi513mqi513mq.png" style="border-radius: 8px;">
-
+  <h1>Pedro Juan</h1>
+  <h3>Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
 </div>
 
 ---
 
-## Linguagens e Ferramentas
+### Sobre mim
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="45" alt="Go" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="SQL Server" />
-</div>
+Olá! Atualmente estou cursando o 4º período de Análise e Desenvolvimento de Sistemas na Universidade SENAC. Estou em busca de aprimorar meus conhecimentos em .NET (C# e ASP.NET Core) e SQL, e procuro uma oportunidade de estágio como desenvolvedor.
 
-<br>
+**Transformando ideias em código funcional, um passo de cada vez.**
 
 ---
 
-## Estatísticas e Projetos
+### Linguagens e Ferramentas
 
 <div align="center">
-  <p>
-    Confira alguns dos meus projetos destacados:
-  </p>
-  
-  <a href="https://github.com/PedroJuanAFK/BancoDeDados" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto%20Back--End-000?style=for-the-badge&logoColor=00FF00" alt="">
-  </a>
-  &nbsp;
-  <a href="https://github.com/PedroJuanDEV/SireneMobile_.git">
-    <img src="https://img.shields.io/badge/Projeto%20Sirene-000?style=for-the-badge&logoColor=00FF00" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
+</div>
+
+---
+
+### Conecte-se
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+
+  <a href="https://www.linkedin.com/in/pedrojuanafk/" target="_blank" style="transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" style="border-radius: 50%; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)';this.style.filter='brightness(1)'">
   </a>
   
-  <br><br>
+  <a href="mailto:pedrojuandb26@yahoo.com" target="_blank" style="transition: all 0.3s ease;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="48" alt="Email" style="border-radius: 50%; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)';this.style.filter='brightness(1)'">
+  </a>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
-    <img alt="Animação da cobra" src="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://discordapp.com/users/pedrojuandev" target="_blank" style="transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original-wordmark.svg" height="48" alt="Discord" style="border-radius: 50%; background:#5865F2; padding: 4px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)';this.style.filter='brightness(1)'">
+  </a>
 
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00000&section=footer">
-  </div>
 </div>
+
+---
+
+### Projetos em Destaque
+
+**APIs e Projetos Principais:**
+
+- **[Banco de Dados API](https://github.com/PedroJuanAFK/BancoDeDados)** – Projeto Back-End com SQL
+- **[Sirene Mobile](https://github.com/PedroJuanDEV/SireneMobile_.git)** – Projeto Sirene
+
+---
+
+*Aberto a oportunidades e colaborações.*
