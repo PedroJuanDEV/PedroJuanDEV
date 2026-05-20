@@ -1,55 +1,42 @@
-<div align="center">
-  <h1>Pedro Juan</h1>
-  <h3>Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
-</div>
+# Pedro Juan
+**Back-End Developer | Graduando em Análise e Desenvolvimento de Sistemas**
+
+Olá! Sou estudante do 4º período na Universidade SENAC, focado no ecossistema .NET e em arquitetura de dados com SQL. Busco minha primeira oportunidade como Estágio/Junior para aplicar conceitos de código limpo, APIs RESTful e desenvolvimento back-end robusto.
 
 ---
 
-### Sobre mim
+###  Stack Tecnológica
 
-Olá! Atualmente estou cursando o 4º período de Análise e Desenvolvimento de Sistemas na Universidade SENAC. Estou em busca de aprimorar meus conhecimentos em .NET (C# e ASP.NET Core) e SQL, e procuro uma oportunidade de estágio como desenvolvedor.
-
-**Transformando ideias em código funcional, um passo de cada vez.**
-
----
-
-### Linguagens e Ferramentas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="42" alt=".NET" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="42" alt="SQL Server" />
+</p>
 
 ---
 
-### Conecte-se
+###  Projetos em Destaque
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+|  **[Bliblioteca API](https://github.com/PedroJuanDEV/BibliotecaAPI-DotNet)** | API robusta focada na integração eficiente e manipulação de banco de dados SQL. | `.NET`, `C#`, `SQL Server` |
+|  **[Cadastro de clientes](https://github.com/PedroJuanDEV/PROJETO-DBZ-API)** | API . | `C#`, `.NET 9.0`,Mysql |
 
-  <a href="https://www.linkedin.com/in/pedrojuanafk/" target="_blank" style="transition: all 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" style="border-radius: 50%; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)';this.style.filter='brightness(1)'">
+---
+
+###  Conecte-se Comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedrojuanafk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="mailto:pedrojuandb26@yahoo.com" target="_blank" style="transition: all 0.3s ease;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="48" alt="Email" style="border-radius: 50%; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)';this.style.filter='brightness(1)'">
+  <a href="mailto:pedrojuandb26@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Yahoo!-6001d2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email" />
   </a>
-  
-  <a href="https://discordapp.com/users/pedrojuandev" target="_blank" style="transition: all 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original-wordmark.svg" height="48" alt="Discord" style="border-radius: 50%; background:#5865F2; padding: 4px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)';this.style.filter='brightness(1)'">
+  <a href="https://discordapp.com/users/pedrojuandev" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-
-</div>
+</p>
 
 ---
-
-### Projetos em Destaque
-
-**APIs e Projetos Principais:**
-
-- **[Banco de Dados API](https://github.com/PedroJuanAFK/BancoDeDados)** – Projeto Back-End com SQL
-- **[Sirene Mobile](https://github.com/PedroJuanDEV/SireneMobile_.git)** – Projeto Sirene
-
----
-
-*Aberto a oportunidades e colaborações.*
+⚡ *Disponível para oportunidades de estágio, projetos open-source e colaborações técnicas.*
