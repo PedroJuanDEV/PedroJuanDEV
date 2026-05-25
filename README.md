@@ -1,7 +1,7 @@
 # Pedro Juan
 **Back-End Developer | Graduando em Análise e Desenvolvimento de Sistemas**
 
-Olá! Sou estudante do 4º período na Universidade SENAC, focado no ecossistema .NET e em arquitetura de dados com SQL. Busco minha primeira oportunidade como Estágio/Junior para aplicar conceitos de código limpo, APIs RESTful e desenvolvimento back-end robusto.
+Olá! Me chamo Pedro Juan e sou estudante de ADS na Universidade Senac, uma oportunidade que nasceu através do programa Embarque Digital em parceria com o banco Santander. Atualmente, estou cursando o meu 4º período. Direciono meus estudos ao ecossistema .NET e a bancos de dados relacionais. Estou em busca da minha primeira oportunidade como desenvolvedor estagiário. Sinta-se à vontade para navegar entre meus projetos e conhecer um pouco mais sobre a minha atuação.
 
 ---
 
