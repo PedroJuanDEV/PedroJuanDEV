@@ -30,8 +30,8 @@ Olá! Me chamo Pedro Juan e sou estudante de ADS na Universidade Senac, uma opor
   <a href="https://www.linkedin.com/in/pedrojuanafk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:pedrojuandb26@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Yahoo!-6001d2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email" />
+  <a href="mailto:pedro.juan.dev@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/outlook-6001d2?style=for-the-badge&logo=outlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://discordapp.com/users/pedrojuandev" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
