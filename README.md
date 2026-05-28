@@ -21,6 +21,7 @@ Olá! Me chamo Pedro Juan e sou estudante de ADS na Universidade Senac, uma opor
 | :--- | :--- | :--- |
 |  **[Bliblioteca API](https://github.com/PedroJuanDEV/BibliotecaAPI-DotNet)** | API robusta focada na integração eficiente e manipulação de banco de dados SQL. | `.NET`, `C#`, `SQL Server` |
 |  **[Cadastro de clientes](https://github.com/PedroJuanDEV/PROJETO-DBZ-API)** | API . | `C#`, `.NET 9.0`,Mysql |
+|  **[Gestão de pagamento](https://github.com/PedroJuanDEV/PaymentGateway.API.git)** | API . | `C#`, `.NET 8.0`,Mysql |
 
 ---
 
